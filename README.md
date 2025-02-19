@@ -1,9 +1,17 @@
- <h1 align="center">Hi 👋, I'm Raj Lathigara</h1>
+<h1 align="center">Hi 👋, I'm Raj Lathigara</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/raj-lathigara"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj lathigara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raj-lathigara"  target="_blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj lathigara" height="30" width="40" />
+</a>
+ <a href="mailto:lathigararaj0@gmail.com">
+  <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" width="30"/>
+ </a>
+ <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="Discord" width="30"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
